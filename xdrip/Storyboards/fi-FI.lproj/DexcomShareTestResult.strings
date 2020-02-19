@@ -1,0 +1,11 @@
+"dexcomsharetestresult_verificationsuccessfulalerttitle" = "Todennettu onnistuneesti";
+"dexcomsharetestresult_verificationsuccessfulalertbody" = "Dexcom Share tilisi on vahvistettu onnistuneesti";
+"dexcomsharetestresult_verificationerroralerttitle" = "Todentamimisessa virhe";
+"dexcomsharetestresult_SSO_AuthenticateAccountNotFound" = "Tiliä ei löydy";
+"dexcomsharetestresult_SSO_AuthenticateMaxAttemptsExceeed" = "Maksimimäärä kirjautumisyrityksiä. Odota 10 minuuttia ja yritä uudestaan.";
+"dexcomsharetestresult_SSO_AuthenticatePasswordInvalid" = "Väärä salasana";
+"dexcomsharetestresult_uploadErrorWarning" = "Dexcom Share Upload Error";
+"dexcomsharetestresult_monitored_receiver_sn_doesnotmatch" = "Dexcom Share Serial Number does not match the serial number for this account. Verify the Serial Number in the settings.";
+"dexcomsharetestresult_monitored_receiver_not_assigned_1" = "It seems the transmitter id or serial number";
+"dexcomsharetestresult_monitored_receiver_not_assigned_2" = "is not assigned to";
+"dexcomsharetestresult_monitored_receiver_not_assigned_3" = "Use the official Dexcom app to register the transmitter (G5) or Share receiver (G4)\r\n\r\nPossibly you're just using the wrong url, verify the setting 'Use US url?'";
